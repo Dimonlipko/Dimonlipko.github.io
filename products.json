@@ -99,22 +99,6 @@
     "options": []
   },
   {
-    "id": 5,
-    "title": {
-      "ua": "Система моніторингу BMS Chevrolet Volt",
-      "en": "Chevrolet Volt BMS Monitoring System"
-    },
-    "price": 250,
-    "images": [
-      "/img/products/noImage.jpg"
-    ],
-    "description": {
-      "ua": "Пристрій для відображення карти напруг осередків і термодатчиков батареї Chevrolet Volt GEN1, GEN2 через ELM 327 на Android пристроях. Підходить для моніторингу стану другої батареї (додаткової батареї) на базі акумулятора Chevrolet Volt. Є виходи для підключення зумера або реле, для індикації або відключення другої батареї в разі проблеми з нею.",
-      "en": "A device for displaying a map of voltage cells and battery temperature sensors Chevrolet Volt GEN1, GEN2 via ELM 327 on Android devices. Suitable for monitoring the condition of the second battery (additional battery) based on the Chevrolet Volt battery. There are outputs for connecting a buzzer or relay, for indicating or disconnecting the second battery in case of a problem with it."
-    },
-    "options": []
-  },
-  {
     "id": 6,
     "title": {
       "ua": "ELM 327 1.5V",
